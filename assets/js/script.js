@@ -1,11 +1,5 @@
 'use strict';
 
-
-
-/**
- * all music information
- */
-
 const musicData = [
   {
     backgroundImage: "./assets/images/ferrari 1950.webp",
@@ -28,7 +22,7 @@ const musicData = [
    {
     backgroundImage: "./assets/images/Alfa_Romeo_Alfetta_179.jpg",
     posterUrl: "./assets/images/Alfa_Romeo_Alfetta_179.jpg",
-    title: "Alfa Romeo_Alfetta 179",
+    title: "Alfa Romeo Alfetta 179",
     album: "Fórmula 1",
     year: 1982,
     artist: "Carlos Da Silva",
